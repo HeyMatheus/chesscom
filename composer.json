@@ -2,12 +2,30 @@
     "name": "heymatheus/chesscom",
     "description": "Chess.com Public API Wrapper",
     "type": "library",
+    "keywords": [
+        "chess",
+        "chesscom",
+        "api",
+        "wrapper",
+        "public api"
+    ],
+    "authors": [
+        {
+            "name": "Matheus Santos",
+            "email": "miliandroxd@gmail.com",
+            "homepage": "https://github.com/HeyMatheus",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "https://github.com/HeyMatheus/chesscom",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "HeyMatheus\\": "src"
         }
     },
     "require": {
+        "php": "^7.4",
         "guzzlehttp/guzzle": "^7.3"
     }
 }
