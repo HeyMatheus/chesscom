@@ -1,0 +1,13 @@
+{
+    "name": "heymatheus/chesscom",
+    "description": "Chess.com Public API Wrapper",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "HeyMatheus\\": "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
