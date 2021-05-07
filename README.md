@@ -3,7 +3,7 @@
 # Getting Started
 
 ```sh
-composer require HeyMatheus/chesscom
+composer require plugin/chesscom
 ```
 
 # Learn
