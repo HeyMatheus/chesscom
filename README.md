@@ -1,4 +1,5 @@
-# Chess.com Public API Wrapper (PHP Version)
+# chesscom
+Chess.com Public API Wrapper
 
 # Getting Started
 
