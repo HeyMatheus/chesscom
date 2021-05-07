@@ -1,7 +1,7 @@
 {
     "name": "plugin/chesscom",
     "description": "Chess.com Public API Wrapper",
-    "minimum-stability": "dev",
+    "prefer-stable": true,
     "type": "library",
     "license": "MIT",
     "keywords": [
