@@ -1,5 +1,5 @@
 {
-    "name": "heymatheus/chesscom",
+    "name": "plugin/chesscom",
     "description": "Chess.com Public API Wrapper",
     "type": "library",
     "keywords": [
