@@ -1,24 +1,22 @@
 {
     "name": "plugin/chesscom",
     "description": "Chess.com Public API Wrapper",
+    "minimum-stability": "dev",
     "type": "library",
+    "license": "MIT",
     "keywords": [
         "chess",
         "chesscom",
         "api",
-        "wrapper",
-        "public api"
+        "wrapper"
     ],
     "authors": [
         {
             "name": "Matheus Santos",
             "email": "miliandroxd@gmail.com",
-            "homepage": "https://github.com/HeyMatheus",
-            "role": "Developer"
+            "homepage": "https://github.com/HeyMatheus"
         }
     ],
-    "homepage": "https://github.com/HeyMatheus/chesscom",
-    "license": "MIT",
     "autoload": {
         "psr-4": {
             "HeyMatheus\\": "src"
