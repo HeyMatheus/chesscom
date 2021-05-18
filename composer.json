@@ -14,12 +14,12 @@
         {
             "name": "Matheus Santos",
             "email": "miliandroxd@gmail.com",
-            "homepage": "https://github.com/HeyMatheus"
+            "homepage": "https://github.com/MatheusTheGeek"
         }
     ],
     "autoload": {
         "psr-4": {
-            "HeyMatheus\\": "src"
+            "MTGeek\\": "src"
         }
     },
     "require": {

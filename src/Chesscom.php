@@ -1,6 +1,6 @@
 <?php
 
-namespace HeyMatheus;
+namespace MTGeek;
 
 class Chesscom extends Request
 {
