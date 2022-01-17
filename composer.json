@@ -13,17 +13,16 @@
     "authors": [
         {
             "name": "Matheus Santos",
-            "email": "miliandroxd@gmail.com",
-            "homepage": "https://github.com/MatheusTheGeek"
+            "homepage": "https://github.com/Matuniverso"
         }
     ],
     "autoload": {
         "psr-4": {
-            "MTGeek\\": "src"
+            "Plugin\\": "src"
         }
     },
     "require": {
-        "php": ">7.4",
-        "guzzlehttp/guzzle": "^7.3"
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.4"
     }
 }
