@@ -1,6 +1,8 @@
 <?php
 
-namespace MTGeek;
+declare(strict_types=1);
+
+namespace Plugin;
 
 class Chesscom extends Request
 {
@@ -30,7 +32,7 @@ class Chesscom extends Request
      */
     public function getTitledPlayers(string $title)
     {
-        return $this->getResponseAsJson("titled/" . \strtoupper($title))->players;
+        return $this->getResponseAsJson("titled/" . strtoupper($title))->players;
     }
 
     /**
