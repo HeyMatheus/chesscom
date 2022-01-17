@@ -4,6 +4,7 @@
     "prefer-stable": true,
     "type": "library",
     "license": "MIT",
+    "version": "1.1",
     "keywords": [
         "chess",
         "chesscom",
@@ -13,7 +14,7 @@
     "authors": [
         {
             "name": "Matheus Santos",
-            "homepage": "https://github.com/Matuniverso"
+            "homepage": "https://github.com/matuniverso"
         }
     ],
     "autoload": {
