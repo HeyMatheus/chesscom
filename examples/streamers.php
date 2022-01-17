@@ -1,6 +1,6 @@
 <?php
 
-use MTGeek\Chesscom;
+use Plugin\Chesscom;
 
 require __DIR__ . '/../vendor/autoload.php';
 
