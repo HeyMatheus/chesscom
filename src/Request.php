@@ -1,24 +1,26 @@
 <?php
 
-namespace MTGeek;
+declare(strict_types=1);
+
+namespace Plugin;
 
 use GuzzleHttp\Client;
 
 abstract class Request
 {
-    private Client $client;
-
-    function __construct()
-    {
-        $this->client = new Client([
+    public function __construct(
+        private Client $client = new Client([
             'base_uri' => 'https://api.chess.com/pub/',
-        ]);
+        ])
+    ) {
     }
 
     protected function getResponseAsJson($value)
     {
-        $response = $this->client->get($value)->getBody();
+        $response = $this->client->get($value);
 
-        return \json_decode($response);
+        $json = $response->getBody()->__toString();
+
+        return json_decode($json);
     }
 }
