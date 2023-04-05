@@ -4,7 +4,7 @@ Chess.com Public API Wrapper
 # Getting Started
 
 ```sh
-composer require plugin/chesscom
+composer require theuzin/chesscom
 ```
 
 # Learn

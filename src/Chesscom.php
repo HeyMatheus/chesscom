@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Plugin;
+namespace Theuzin;
 
 class Chesscom extends Request
 {

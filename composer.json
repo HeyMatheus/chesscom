@@ -1,5 +1,5 @@
 {
-    "name": "plugin/chesscom",
+    "name": "theuzin/chesscom",
     "description": "Chess.com Public API Wrapper",
     "prefer-stable": true,
     "type": "library",
@@ -13,13 +13,13 @@
     ],
     "authors": [
         {
-            "name": "Matheus Santos",
-            "homepage": "https://github.com/matuniverso"
+            "name": "Theuzin",
+            "homepage": "https://github.com/bigtheuzin"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Plugin\\": "src"
+            "Theuzin\\": "src"
         }
     },
     "require": {

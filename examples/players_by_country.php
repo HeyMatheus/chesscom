@@ -1,6 +1,6 @@
 <?php
 
-use Plugin\Chesscom;
+use Theuzin\Chesscom;
 
 require __DIR__ . '/../vendor/autoload.php';
 
