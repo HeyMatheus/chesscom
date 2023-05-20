@@ -3,9 +3,7 @@ Chess.com Public API Wrapper
 
 # Getting Started
 
-```sh
-composer require theuzin/chesscom
-```
+DEPRECATED LIBRARY
 
 # Learn
 
