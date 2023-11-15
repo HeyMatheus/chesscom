@@ -1,5 +1,3 @@
-![maintenance-status](https://img.shields.io/badge/maintenance-deprecated-red.svg)
-
 # chesscom-php
 
 Chess.com Public API Wrapper
