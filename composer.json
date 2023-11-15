@@ -1,5 +1,5 @@
 {
-    "name": "theuzin/chesscom",
+    "name": "flowtt/chesscom-php",
     "description": "Chess.com Public API Wrapper",
     "prefer-stable": true,
     "type": "library",
@@ -13,13 +13,13 @@
     ],
     "authors": [
         {
-            "name": "Theuzin",
-            "homepage": "https://github.com/TheuzinXYZ"
+            "name": "Matheus Nascimento",
+            "homepage": "https://github.com/flowtt"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Theuzin\\": "src"
+            "Flowtt\\": "src"
         }
     },
     "require": {

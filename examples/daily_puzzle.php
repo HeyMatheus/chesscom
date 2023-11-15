@@ -1,6 +1,6 @@
 <?php
 
-use Theuzin\Chesscom;
+use Flowtt\Chesscom;
 
 require __DIR__ . '/../vendor/autoload.php';
 

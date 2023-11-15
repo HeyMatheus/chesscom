@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Theuzin;
+namespace Flowtt;
 
 class Chesscom extends Request
 {

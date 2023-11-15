@@ -5,7 +5,7 @@ Chess.com Public API Wrapper
 # Getting Started
 
 ```bash
-composer require matphp/chesscom-php
+composer require flowtt/chesscom-php
 ```
 
 # Learn
